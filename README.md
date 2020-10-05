@@ -6,9 +6,9 @@
 
 This branch contains sources for the CmodA7-15T XADC Demo.
 
-This project is a Vivado demo using the Cmod A7-15T's analog-to-digital converter ciruitry, push buttons and the RGB LED, written in Verilog. 
-When programmed onto the board, voltage levels between 0 and 1 Volts are read off of the JXADC header. The RGB LEDs brightness increases as the voltage increases. 
-When BTN1 is pressed, the demo switches the xadc channel 4 to channel 12 that is connected to pin 15 and 16 respectively.
+This project is a Vivado demo using the Cmod A7-15T's analog-to-digital converter ciruitry, push buttons and the RGB LED, written in Verilog.   
+When programmed onto the board, voltage levels between 0 and 1 Volts are read off of the JXADC header. The RGB LEDs brightness increases as the voltage increases.   
+When BTN1 is pressed, the demo switches the xadc channel 4 to channel 12 that is connected to pin 15 and 16 respectively.  
 
 For more information on the Cmod A7-15T XADC Demo, including setup instructions, visit its [Demo Page](https://reference.digilentinc.com/reference/programmable-logic/cmod-a7/demos/xadc) on the Digilent Wiki.
 
