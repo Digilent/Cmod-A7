@@ -35,6 +35,6 @@ This demo was moved into this repository during 2020.1 updates. Its history prio
 The following are required for use of this demo. For more information on how to get any hardware or software you may be missing, see the Demo Page, linked above.
 
 * Cmod A7-35T
-* Vivado 2020.1 Installation
+* Vivado and Vitis Installations
 * Serial Terminal Emulator
 * MicroUSB cable
